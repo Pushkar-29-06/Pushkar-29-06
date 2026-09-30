@@ -80,8 +80,3 @@ Java ☕ • AI/ML 🤖 • LLM Applications 🧠 • Backend Development ⚙️
 I'm always interested in collaborating on interesting projects involving **AI, Web Development, Data Science, and Automation**.
 
 If you're building something interesting, feel free to reach out! 🚀
-
----
-[![](https://komarev.com/ghpvc/?username=Pushkar-29-06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
