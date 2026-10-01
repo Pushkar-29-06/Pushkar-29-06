@@ -64,8 +64,7 @@ Email Me 👉 ✉️ **pushkarf128@gmail.com** For Collaboration, Projects, or A
 - 🤖 **AI & LLM Applications** — AI-powered tools, RAG systems and intelligent workflows
 - 🌐 **Web Applications** — Responsive and interactive applications using React and modern web technologies
 - 📊 **Data & Analytics** — Data analysis, visualization and dashboards using Python, Pandas, Numpy and Matplotlib
-- ⚙️ **Automation** — Workflow automation and API-based integrations
-- 📱 **Cross-Platform Apps** — Mobile applications using React Native
+- ⚙️ **Automation** — Workflow automation 
 
 ## 🌱 Currently Exploring
 Java ☕ • AI/ML 🤖 • LLM Applications 🧠 • Backend Development ⚙️ • Automation 🔄
