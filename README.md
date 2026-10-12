@@ -17,12 +17,6 @@ Email Me 👉 ✉️ **pushkarf128@gmail.com** For Collaboration, Projects, or A
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushkarf128@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1368630427665043526)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 # 💻 Tech Stack
 
 ### Languages
